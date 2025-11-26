@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![kiraycode's Stats](https://github-readme-stats.vercel.app/api?username=kiraycode&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![kiraycode's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiraycode&show_icons=true&theme=radical)
